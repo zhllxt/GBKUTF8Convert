@@ -1,4 +1,4 @@
-﻿
+
 // GBKUTF8ConvertDlg.h: 头文件
 //
 

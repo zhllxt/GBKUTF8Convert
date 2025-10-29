@@ -1,4 +1,4 @@
-﻿
+
 // GBKUTF8Convert.cpp: 定义应用程序的类行为。
 //
 

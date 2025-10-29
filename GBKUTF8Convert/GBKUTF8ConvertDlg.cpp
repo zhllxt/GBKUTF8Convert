@@ -1,4 +1,4 @@
-﻿
+
 // GBKUTF8ConvertDlg.cpp: 实现文件
 //
 
@@ -287,7 +287,6 @@ std::set<std::string> filter_types
 	"rej",
 	"swp",
 	"suo",
-	"user",
 	"userosscache",
 	"docstates",
 	"userprefs",
@@ -305,7 +304,6 @@ std::set<std::string> filter_types
 	"tlh",
 	"tmp",
 	"tmp_proj",
-	"log",
 	"vspscc",
 	"vssscc",
 	"pidb",
